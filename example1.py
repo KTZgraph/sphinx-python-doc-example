@@ -6,6 +6,7 @@ def func1(arg1, arg2):
     :param arg2: Another value
 
     :return: arg1
+
     """
     arg1 = arg2
     return arg1
@@ -24,6 +25,7 @@ def func1(arg1, arg2):
 #     """
 #     arg1 = arg2
 #     return arg1
+
 
 def func2():
     """
